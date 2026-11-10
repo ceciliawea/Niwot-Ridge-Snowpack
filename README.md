@@ -1,6 +1,6 @@
 # How Do Cold-Nights Affect Vertical Snow Temperature Gradients and Near-Isothermal Snowpack Structure?
 
-## 2026 ATOC 4500-5500 Capstone Project — Polar Ice & Climate
+## 2026 ATOC 4500-5500 Capstone Final Project — Polar Ice & Climate
 **Authors:** Cece, Jordan, Anna  
 **Institution:** University of Colorado Boulder  
 **Term:** Spring 2026
